@@ -11,7 +11,7 @@ humantime: "9:00 am - 5:00 pm"
 startdate: 2018-07-24
 enddate: 2018-07-25
 instructor: ["Sue McClatchy", "David McKenzie", "TBD"]
-helper: ["Minji Kim", "Samir Amin", "TBD"]
+helper: ["Minji Kim", "Samir Amin", "Harshpreet Chandok", "TBD"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: http://pad.software-carpentry.org/2018-07-24-jacksonLab
 eventbrite: 43940767017
