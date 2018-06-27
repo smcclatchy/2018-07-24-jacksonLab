@@ -10,8 +10,8 @@ humandate: "July 24-25, 2018"
 humantime: "9:00 am - 5:00 pm"
 startdate: 2018-07-24
 enddate: 2018-07-25
-instructor: ["Sue McClatchy", "David McKenzie", "Neil Kindlon", "Jethro Johnson", "Pariksheet Nanda"]
-helper: ["Minji Kim", "Samir Amin", "Harshpreet Chandok", "Seda Arat", "Sumaira Zaman", "Sandeep Namburi"]
+instructor: ["Sue McClatchy", "Neil Kindlon", "Jethro Johnson", "Pariksheet Nanda"]
+helper: ["Minji Kim", "Samir Amin", "Seda Arat", "Sumaira Zaman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: http://pad.software-carpentry.org/2018-07-24-jacksonLab
 eventbrite: 43940767017
