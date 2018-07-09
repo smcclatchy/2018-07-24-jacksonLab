@@ -2,7 +2,7 @@
 layout: workshop
 carpentry: "swc"
 venue: "The Jackson Laboratory for Genomic Medicine"
-address: "10 Discovery Drive, Farmington CT"
+address: "Holt Conference Room, 10 Discovery Drive, Farmington CT"
 country: "us"
 language: "en"
 latlng: "41.732284,-72.793404"
